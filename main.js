@@ -54,7 +54,7 @@ const products = [
 ]
 
 
-const weatherAPIKey = "471ab42302e28c8d0dc5d96d1aa45142";
+const weatherAPIKey = "Your_API_KEY";
 const weatherAPIURL = `https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API key}&units=metric`;
 
 // Menu Section
